@@ -173,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579008635774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Curso SeleniumWebDriver">
+      <created>1579009047274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009047274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Curso SeleniumWebDriver">
+      <created>1579009066749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009066749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,10 +215,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="704" y="39" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1578689131095" />
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579009045725">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579009065302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579009045725" />
+    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579009065302" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1578935961455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -237,14 +251,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="436" y="0" width="930" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579008998687" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1579008834433">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1579009074992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579008834433" />
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579009074992" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579003517636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579003517636" />
+    <state x="338" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579009876138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="338" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1579009876138" />
     <state x="65" y="67" key="new project wizard" timestamp="1578683231610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
