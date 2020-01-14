@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58a4f6e8-4573-4027-be1f-9193f0ad3cd2" name="Default Changelist" comment="Curso SeleniumWebDriver">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/informacaoUsuarioTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/informacoesUsuarioPageObjectsTest.csv" afterDir="false" />
+    <list default="true" id="58a4f6e8-4573-4027-be1f-9193f0ad3cd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -178,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579008235532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Curso SeleniumWebDriver">
+      <created>1579008635774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579008635774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,10 +201,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="704" y="39" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1366.728@0.0.1366.728" timestamp="1578689131095" />
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579008561973">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579008633809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579008561973" />
+    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579008633809" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1578935961455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -238,14 +233,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579005809355" />
-    <state x="436" y="0" width="930" height="728" key="SettingsEditor" timestamp="1579008099634">
+    <state x="436" y="0" width="930" height="728" key="SettingsEditor" timestamp="1579008998687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="436" y="0" width="930" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579008099634" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1579008270283">
+    <state x="436" y="0" width="930" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579008998687" />
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1579008834433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579008270283" />
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579008834433" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579003517636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
